@@ -1,0 +1,14 @@
+{
+  "name": "generator-roscoe",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "app",
+    "router"
+  ],
+  "author": "Amanda Roscoe",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.21.1"
+  }
+}
