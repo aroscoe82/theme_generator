@@ -61,7 +61,7 @@ function <%= title %>_scripts() {
 add_action( 'wp_enqueue_scripts', '<%= title %>_scripts' );
 
 /* Load Jetpack compatibility file */
-require get_template_directory() . '/includes/jetpack.php';
+// require get_template_directory() . '/includes/jetpack.php';
 
 /*********************
 ** theme customizer **
